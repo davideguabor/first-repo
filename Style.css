@@ -1,0 +1,48 @@
+/* css declaration */
+
+/* selector{ property:value;} */
+
+/* selector by tag */
+
+/* {margin: 0 ;} */
+
+/* div{ background: tomato; */
+ /* width: 300px; }   */
+
+/* selection by id */
+
+
+#firstdiv { width: 300px;   
+    
+            background-color: tomato; 
+            margin-top: 15; 
+            display: inline-block;
+            padding: 20px;
+     }
+
+    /* selector by class */
+
+.seconddiv {  width: 300px;
+        
+              background-color: #808080;
+              margin-top: 15; 
+              display: inline-block;
+              padding: 20px;}
+
+        /* selector by id  */
+
+#thirddiv {   width: 300px; 
+              background: #0000ff;
+              margin-top: 15;
+              display: inline-block;
+              padding: 20px;}
+
+            /* selection by tag */
+
+section {  /*background-color: #000000; */
+         /* height: 300px; */
+        width: 90%;
+         margin: 40px auto; 
+        text-align: center;}
+
+             /* { vertical-align: top;} */
